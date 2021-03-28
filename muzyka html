@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="uft-8"/>
+	<title>Gatunki muzyki</title>
+	<meta name="description" content="Dowiedz się o paru rodzajach muzyki."/>
+	<meta name="keywords" content="Rap, Pop i Reggae"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+</head>
+
+<body>
+    <h1>Wybrane gatunki muzyczne:<h1/>
+	<img src="img/9901-gif.gif" /> <br/>
+    <h2>Rap<h2/> <br/>
+	<img src="img/paktofonika2.jpg"width="640"height="400"/>
+	<br/><br/>
+	<p><h5>Rap cechuje się bardzo dynamicznym tempem oraz często slangowymi pojęciami<p/>
+	<h5/><br/><br/>
+	<h2>Pop<h2/>
+	<img src="img/Michael-Jackson.jpg"width="480"height="319"/>
+	<br/><br/>
+	<p><h5>Muzyka chakteryzująca się melodyjnością oraz dowolnością kompozycji. Zazwyczaj jest to pozytywna lub motywująca piosenka.
+	<br/><br/><h5/>
+	<h2>Reggae<h2/> 
+	<img src="img/unnamed.jpg"width="480"height="319"/>
+	<p><h5>Stanowi najbardziej charakterystyczny gatunek muzyki jamajskiej. Ukształtowało się w wyniku stopniowej ewolucji (polegającej m.in. na spowolnieniu tempa) muzyki ska, poprzez przejściowy styl rocksteady.
+	<h5/><br/><br/>
+</body>
+</html>
